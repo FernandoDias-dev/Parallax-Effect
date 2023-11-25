@@ -1,7 +1,7 @@
 # Parallax-Effect
  Documentação README.md
 
-Site com Efeito Parallax
+Site com Efeito Parallax: https://parallaxxxeffect.netlify.app/
 Este repositório contém o código-fonte para um site simples que incorpora um efeito parallax usando HTML e CSS. O efeito parallax é aplicado a diferentes seções da página da web para criar uma experiência de usuário visualmente atraente e imersiva.
 
 Sumário
